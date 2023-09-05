@@ -1,5 +1,5 @@
 # HTML Fund Me
-A HTML Fund Me Project that is part of Cyfrin Solidity Blockchain Course.
+A JavaScript-HTML Fund Me Project that is part of Cyfrin Solidity Blockchain Course.
 
 # Requirements
 
