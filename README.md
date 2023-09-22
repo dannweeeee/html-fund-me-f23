@@ -37,7 +37,7 @@ Make sure you have the following installed:
 1. You'll need to open up a second terminal and run:
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-f23
+git clone https://github.com/dannweeeee/foundry-fund-me-f23
 cd foundry-fund-me-f23
 make build
 make anvil
