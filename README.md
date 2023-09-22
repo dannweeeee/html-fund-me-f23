@@ -14,7 +14,7 @@ A JavaScript-HTML Fund Me Project that is part of Cyfrin Solidity Blockchain Cou
 1. Clone the repo
 
 ```
-git clone https://github.com/Cyfrin/html-fund-me-f23
+git clone https://github.com/dannweeeee/html-fund-me-f23
 cd html-fund-me-f23
 ```
 
