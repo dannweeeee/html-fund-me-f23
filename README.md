@@ -9,7 +9,7 @@ A JavaScript-HTML Fund Me Project that is part of Cyfrin Solidity Blockchain Cou
 - [Metamask](https://metamask.io/)
   - This is a browser extension that lets you interact with the blockchain.
 
-## Quickstart
+## Quick Start
 
 1. Clone the repo
 
@@ -28,7 +28,7 @@ And you should see a small button that says "connect".
 
 Hit it, and you should see metamask pop up.
 
-## Execute a transaction
+## Execute a Transaction
 
 If you want to execute a transaction follow this:
 
