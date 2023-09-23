@@ -1,7 +1,7 @@
 # HTML Fund Me
 A JavaScript-HTML Fund Me Project that is part of Cyfrin Solidity Blockchain Course.
 
-# Requirements
+## Requirements
 
 - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
   - You'll know you've installed it right if you can run:
@@ -9,7 +9,7 @@ A JavaScript-HTML Fund Me Project that is part of Cyfrin Solidity Blockchain Cou
 - [Metamask](https://metamask.io/)
   - This is a browser extension that lets you interact with the blockchain.
 
-# Quickstart
+## Quickstart
 
 1. Clone the repo
 
@@ -28,7 +28,7 @@ And you should see a small button that says "connect".
 
 Hit it, and you should see metamask pop up.
 
-# Execute a transaction
+## Execute a transaction
 
 If you want to execute a transaction follow this:
 
